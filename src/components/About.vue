@@ -10,8 +10,8 @@
     </v-row>
     <v-row>
         <v-col>
-            <div class="aboutGif">
-                <img class="gif" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="">
+            <div  class="aboutGif">
+                <img class="gif"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="">
             </div>
         </v-col>
         <v-col style="color: white ;">
@@ -20,9 +20,6 @@
             </v-row>
             <v-row>
                 <v-col>2. lorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum lorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum</v-col>
-            </v-row>
-            <v-row>
-                <v-col>3. lorem lunmpsum lorem lunmpsum lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum lorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum</v-col>
             </v-row>
             <v-row>
                 <v-col>3. lorem lunmpsum lorem lunmpsum lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum lorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsumlorem lunmpsum</v-col>
@@ -52,6 +49,9 @@
     text-align: center;
     width: 100%;
     height: 100px;
+}
+.gif{
+    width: 100%;
 }
 
 </style>
